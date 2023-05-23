@@ -15,25 +15,26 @@ This repository contains a Docker project for Thousandeye, an application for mo
 
 ## Getting Started
 
-1. Clone the repository:
+1.  Clone the repository:
 
-git clone https://github.com/ShuraDarz/Thousend-docker.git
+  git clone https://github.com/ShuraDarz/Thousend-docker.git
 
-2. Navigate to the project directory:
+2.  Navigate to the project directory:
 
-cd Thousend-docker
-Configure ThousandEyes API credentials:
+    cd Thousend-docker
+    Configure ThousandEyes API credentials:
 
-Open the main.py file in the project directory.
-Replace API_USERNAME and API_TOKEN with your ThousandEyes API credentials.
-If applicable, replace TRIAL_USERNAME and TRIAL_TOKEN with trial user credentials.
+3.  Open the main.py file in the project directory.
 
-3. Build the Docker image:
+    Replace API_USERNAME and API_TOKEN with your ThousandEyes API credentials.
+    If applicable, replace TRIAL_USERNAME and TRIAL_TOKEN with trial user credentials.
 
-docker build -t thousand-docker .
+3.  Build the Docker image:
 
-4. Run the Docker container:
+    docker build -t thousand-docker .
 
-docker run -d --name thousand-container thousand-docker
+4.  Run the Docker container:
+
+    docker run -d --name thousand-container thousand-docker
 
 The Thousand application will now be running inside the Docker container.
