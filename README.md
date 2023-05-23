@@ -21,10 +21,10 @@ This repository contains a Docker project for Thousandeye, an application for mo
 2.  Navigate to the project directory:
 
 - cd Thousend-docker
-- Configure ThousandEyes API credentials:
 
-3.  Open the main.py file in the project directory.
+3.  Configure ThousandEyes API credentials:
 
+- Open the main.py file in the project directory.
 - Replace API_USERNAME and API_TOKEN with your ThousandEyes API credentials.
 - If applicable, replace TRIAL_USERNAME and TRIAL_TOKEN with trial user credentials.
 
