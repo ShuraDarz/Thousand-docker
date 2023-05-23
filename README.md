@@ -4,7 +4,6 @@ This repository contains a Docker project for Thousandeye, an application for mo
 
 ## Features
 
-- Dockerized Thousandeye application for easy deployment and management
 - Integration with ThousandEyes API for retrieving test information and metrics
 - Support for both regular and trial user credentials
 
