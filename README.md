@@ -16,11 +16,11 @@ This repository contains a Docker project for Thousandeye, an application for mo
 
 1.  Clone the repository:
 
-- git clone https://github.com/ShuraDarz/Thousend-docker.git
+- git clone https://github.com/ShuraDarz/Thousand-docker.git
 
 2.  Navigate to the project directory:
 
-- cd Thousend-docker
+- cd Thousand-docker
 
 3.  Configure ThousandEyes API credentials:
 
