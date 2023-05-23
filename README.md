@@ -34,7 +34,7 @@ This repository contains a Docker project for Thousandeye, an application for mo
 
 5.  Run the Docker container:
 
-- docker run -d --name thousand-container thousand-docker
+- docker run --rm thousand-docker
 
 ## Usage
 
