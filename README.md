@@ -28,11 +28,11 @@ This repository contains a Docker project for Thousandeye, an application for mo
 - Replace API_USERNAME and API_TOKEN with your ThousandEyes API credentials.
 - If applicable, replace TRIAL_USERNAME and TRIAL_TOKEN with trial user credentials.
 
-3.  Build the Docker image:
+4.  Build the Docker image:
 
 - docker build -t thousand-docker .
 
-4.  Run the Docker container:
+5.  Run the Docker container:
 
 - docker run -d --name thousand-container thousand-docker
 
