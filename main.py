@@ -5,7 +5,7 @@ import logging
 
 # Define the Thousand API credentials
 API_USERNAME = 'shura_darz@hotmail.com'
-API_TOKEN = 'zv7m0654ensw1lfjjwi6uhy8yvimiivv'
+API_TOKEN = '4bqquxc8g8owd5vtkk9tatq8l78ng1u7'
 API_AUTH = (API_USERNAME, API_TOKEN)
 
 # Send a GET request to retrieve the TEST using the API credentials 
