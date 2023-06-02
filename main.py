@@ -4,8 +4,8 @@ import json
 import logging
 
 # Define the Thousand API credentials
-API_USERNAME = 'enriquem.garduno@gmail.com'
-API_TOKEN = 'vuw79jvesetcvq3v74ntiq68uhrcndv6'
+API_USERNAME = 'shura_darz@hotmail.com'
+API_TOKEN = 'zv7m0654ensw1lfjjwi6uhy8yvimiivv'
 API_AUTH = (API_USERNAME, API_TOKEN)
 
 # Send a GET request to retrieve the TEST using the API credentials 
